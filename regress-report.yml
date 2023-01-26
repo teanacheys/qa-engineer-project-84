@@ -102,11 +102,11 @@ test-cases:
       В строке поиск можно искать товар как на русском языке, когда выбран русский язык на странице
     environment: |
      Версия 108.0.5359.125 (Официальная сборка), (64 бит)
-   ОС Windows 7
+     ОС Windows 7
     steps-to-reproduce: |
-       Зайти на страницу https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
-       В правом углу выбрать русский язык
-       В левой части страницы , в поисковом окне ввести ключевые слова на русском
+      - Зайти на страницу https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
+      - В правом углу выбрать русский язык
+      - В левой части страницы , в поисковом окне ввести ключевые слова на русском
     expected-result: |
       На странице выпадут товары удовлетворяющие ключевым словам
     actual-result: |
@@ -118,8 +118,8 @@ test-cases:
      Версия 108.0.5359.125 (Официальная сборка), (64 бит)
      ОС Windows 7
     steps-to-reproduce: |
-     1. Зайти на страницу https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
-     2. Найти клавишу для выбора всех брендов 
+     - Зайти на страницу https://products-store-git-v2bugfixes-hexlet-components.vercel.app/
+     - Найти клавишу для выбора всех брендов 
     expected-result: |
      Одним нажатием выделятся все бренды
     actual-result: |
