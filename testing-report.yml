@@ -1,50 +1,50 @@
 - summary: |
      Возможность искать товары по ключевому слову или категории smarthphone
-  status: pass
+status: pass
   
 - summary: |
      Возможность искать товары по ключевому слову или категории laptops
-  status: pass
+status: pass
   
 - summary: |
      Возможность искать товары по ключевому слову или категории fragrances
-  status: pass
+status: pass
   
 - summary: |
      Возможность искать товары по ключевому слову или категории skincare
-  status: pass
+status: pass
   
 - summary: |
      Возможность искать товары по ключевому слову или категории groceries
-  status: pass
+status: pass
   
 - summary: |
      Возможность искать товары по ключевому слову или категории home-decoration
-  status: pass
+status: pass
   
 - summary: |
      Возможность искать товары по ключевому слову или категории mens-watches
-  status: pass
+status: pass
   
 - summary: |
      Возможность искать товары по ключевому слову или категории womens-watches
-  status: pass
+status: pass
   
 - summary: |
      Возможность искать товары по ключевому слову или категории womens-bags
-  status: pass
+status: pass
   
 - summary: |
      Возможность искать товары по ключевому слову или категории womens-jewellery
-  status: pass
+status: pass
   
 - summary: |
      Возможность искать товары по ключевому слову или категории sunglasses
-  status: pass
+status: pass
        
 - summary: |
      Возможность искать товары по ключевому слову или категории automotive
-  status: pass
+status: pass
   
 - summary: |
     Пользователь должен иметь возможность искать товары по ключевым словам
@@ -126,19 +126,19 @@ status: fail
 В строке поиск можно искать товар как на английском языке, когда выбран английский язык на странице
  status: pass
 
-  summary: |
+- summary: |
 В строке поиск можно искать товар как на русском языке, когда выбран русский язык на странице
 status: fail
 
- summary: |
+- summary: |
 Понятность и привлекательность интерфейса
  status: pass
 
-summary: |
+- summary: |
 Можно вывести товары всех категорий сразу и осуществлять поиск из всех категорий товаров
 status: pass
 
- summary: |
+- summary: |
 Можно вывести товары всех брендов сразу, нажатием одной клавиши
 status: fail
 
