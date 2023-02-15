@@ -1,11 +1,63 @@
 ---
-test-cases:   
+test-cases:  
+   - summary: |
+    Проверка фильтра по категории
+    status: pass
+  
+   - summary: |
+    Проверка фильтра по ключевым словам
+    status: pass  
+  
+   - summary: |
+    Проверка просмотра списка товаров 
+    status: pass
+  
+   - summary: |
+    Проверка открытия карточки товара
+    status: pass
+
+   - summary: |
+     Проверка добавления товаров в корзину
+     status: pass
+
+   - summary: |
+     Проверка оформления заказа с пустой корзиной
+    status: pass
+
+   - summary: |
+      Проверка фильтра по цене товара
+    status: pass
+
+   - summary: |
+      Проверка чекбокса In Stock
+    status: pass
+
+   - summary: |
+      Проверка мобильной версии сайта
+    status: pass
+  
+   - summary: |
+      Проверка открытия магазина в Firefox
+    status: pass
+
+   - summary: |
+      Проверка переключения локали на английский язык
+    status: pass
+
+  - summary: |
+      Проверка переключения локали на русский язык
+    status: pass
+
+  - summary: |
+      Поиск товаров на латинице
+    status: pass
+
   - summary: |
       Проверка изменения количества товара в корзине
     status: fail
     
   - summary: |
-      В строке поиск можно искать товар на кириллице
+      Поиск товаров на кириллице
     status: fail
 
 bugreports:
