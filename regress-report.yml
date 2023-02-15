@@ -1,46 +1,46 @@
 ---
 test-cases:  
-   - summary: |
-     Проверка фильтра по категории
+  - summary: |
+      Проверка фильтра по категории
     status: pass
   
-   - summary: |
-     Проверка фильтра по ключевым словам
+  - summary: |
+      Проверка фильтра по ключевым словам
     status: pass  
   
-   - summary: |
-     Проверка просмотра списка товаров 
+  - summary: |
+      Проверка просмотра списка товаров 
     status: pass
   
-   - summary: |
-     Проверка открытия карточки товара
+  - summary: |
+      Проверка открытия карточки товара
     status: pass
 
-   - summary: |
-     Проверка добавления товаров в корзину
+  - summary: |
+      Проверка добавления товаров в корзину
     status: pass
 
-   - summary: |
+  - summary: |
       Проверка оформления заказа с пустой корзиной
     status: pass
 
-   - summary: |
+  - summary: |
       Проверка фильтра по цене товара
     status: pass
 
-   - summary: |
+  - summary: |
       Проверка чекбокса In Stock
     status: pass
 
-   - summary: |
+  - summary: |
       Проверка мобильной версии сайта
     status: pass
   
-   - summary: |
+  - summary: |
       Проверка открытия магазина в Firefox
     status: pass
 
-   - summary: |
+  - summary: |
       Проверка переключения локали на английский язык
     status: pass
 
